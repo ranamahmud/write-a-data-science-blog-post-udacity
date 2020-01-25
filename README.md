@@ -43,10 +43,11 @@ I was interested to analyze this data set to find out what set apart the happily
 4. How accurately we can predict a future divorce?
 
 ## File Description <a name="files"></a>
-* **Project 1 Write A Data Science Blog Post.ipynb**: Notebook contains the data analysis.
-* **divorce.xlsx**: Divorce Predictors data set
-* **requirements.txt**: Text file containing list of packages used.
-* **LICENSE.txt**: Project LICENSE file.
+* [**Project 1 Write A Data Science Blog Post.ipynb**](/Project%201%20Write%20A%20Data%20Science%20Blog%20Post.ipynb): 
+Notebook contains the data analysis.
+* [**divorce.xlsx**](/divorce.xlsx): Divorce Predictors data set
+* [**requirements.txt**](/requirements.txt): Text file containing list of packages used.
+* [**LICENSE.txt**](/LICENSE.txt): Project LICENSE file.
 
 ## Summary of the results <a name="results"></a>
 ## Licensing, Authors, and Acknowledgements <a name="acknowledgements"></a>
